@@ -86,7 +86,7 @@ Deploy on cloud (e.g., Heroku, AWS, or Vercel)
 
 **Deployed Model in Vercel Cloud**
 
-https://end-to-end-data-science-project-git-main-megaa-c-vs-projects.vercel.app
+end-to-end-data-science-project-orcin.vercel.app
 
 Add logging and form validation
 
