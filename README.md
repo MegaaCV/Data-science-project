@@ -1,17 +1,4 @@
 # END-TO-END-DATA-SCIENCE-PROJECT
-*COMPANY NAME* : CODETECH IT SOLUTIONS
-
-*NAME*         : MEGAA C V
-
-*INTERN ID*    : CT06DN683
-
-*DOMAIN*       : DATA SCIENCE
-
-*DURATION*     : 6 WEEKS
-
-*MENTOR*       : NEELA SANTHOSH
-
-# Description of my task
 
 Car Selling Price Prediction
 
